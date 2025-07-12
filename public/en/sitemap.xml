@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+      <url>
+            <loc>http://localhost:1313/gallery/</loc>
+            <lastmod>2025-07-12T05:23:24+10:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/about/</loc>
+            <lastmod>2025-07-12T05:23:24+10:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/</loc>
+            <lastmod>2025-07-12T06:21:00+10:00</lastmod>
+            <xhtml:link
+              rel="alternate"
+              hreflang="sw"
+              href="http://localhost:1313/sw/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="http://localhost:1313/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/test/</loc>
+            <lastmod>2025-07-12T06:21:00+10:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/gallery/artisan-craft/</loc>
+            <lastmod>2025-07-12T05:23:24+10:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/gallery/traditional-dance/</loc>
+            <lastmod>2025-07-12T05:23:24+10:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/posts/</loc>
+            <lastmod>2025-07-12T05:19:28+10:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/posts/welcome-to-our-community/</loc>
+            <lastmod>2025-07-12T05:19:28+10:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/posts/my-first-post/</loc>
+            <lastmod>2024-01-14T07:07:07+01:00</lastmod>
+          </url>
+    
+  
+    
+  
+    
+  
+</urlset>

@@ -1,0 +1,37 @@
+baseURL = '/'
+languageCode = 'en-us'
+title = 'African Community Project'
+theme = 'congo'
+
+[params]
+  articleShowAuthor = true
+  articleShowDate = false
+  articleShowReadingTime = false
+  showHero = true # Enable hero images for posts and pages
+  custom_css = ['css/custom.css']
+# Menu configuration for navigation
+
+[[menu.main]]
+  name = 'Posts'
+  pageRef = '/posts'
+  weight = 20
+
+[[menu.main]]
+  name = 'Gallery'
+  pageRef = '/gallery'
+  weight = 30
+
+[[menu.main]]
+  name = 'About'
+  pageRef = '/about'
+  weight = 40
+
+[languages]
+  [languages.en]
+    languageName = 'English'
+    weight = 1
+
+[module]
+  [[module.mounts]]
+    source = "static"
+    target = "static"
