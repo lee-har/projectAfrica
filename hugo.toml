@@ -2,6 +2,7 @@ baseURL = '/'
 languageCode = 'en-us'
 title = 'African Community Project'
 theme = 'congo'
+publishDir = "docs"
 
 [params]
   articleShowAuthor = true
