@@ -4,43 +4,57 @@
   
     
       <url>
-            <loc>/gallery/</loc>
+            <loc>http://localhost:1313/projectAfrica/gallery/</loc>
             <lastmod>2025-07-12T05:23:24+10:00</lastmod>
           </url>
     
   
     
       <url>
-            <loc>/about/</loc>
+            <loc>http://localhost:1313/projectAfrica/about/</loc>
             <lastmod>2025-07-12T09:10:00+10:00</lastmod>
           </url>
     
   
     
       <url>
-            <loc>/</loc>
+            <loc>http://localhost:1313/projectAfrica/</loc>
             <lastmod>2025-07-12T09:10:00+10:00</lastmod>
           </url>
     
   
     
       <url>
-            <loc>/gallery/artisan-craft/</loc>
+            <loc>http://localhost:1313/projectAfrica/gallery/artisan-craft/</loc>
             <lastmod>2025-07-12T05:23:24+10:00</lastmod>
           </url>
     
   
     
       <url>
-            <loc>/gallery/traditional-dance/</loc>
+            <loc>http://localhost:1313/projectAfrica/gallery/traditional-dance/</loc>
             <lastmod>2025-07-12T05:23:24+10:00</lastmod>
           </url>
     
   
     
       <url>
-            <loc>/posts/</loc>
+            <loc>http://localhost:1313/projectAfrica/posts/</loc>
             <lastmod>2025-07-12T05:19:28+10:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/projectAfrica/posts/welcome-to-our-community/</loc>
+            <lastmod>2025-07-12T05:19:28+10:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/projectAfrica/posts/my-first-post/</loc>
+            <lastmod>2024-01-14T07:07:07+01:00</lastmod>
           </url>
     
   

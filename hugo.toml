@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'https://lee-har.github.io/projectAfrica/'
 languageCode = 'en-us'
 title = 'African Community Project'
 theme = 'congo'
