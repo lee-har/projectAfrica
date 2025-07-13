@@ -1,28 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Welcome to the Project on African Community Project</title><link>/</link><description>Recent content in Welcome to the Project on African Community Project</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sat, 12 Jul 2025 09:10:00 +1000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>/about/</link><pubDate>Sat, 12 Jul 2025 09:10:00 +1000</pubDate><guid>/about/</guid><description>&lt;p>About Us&lt;/p>
-&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p>
-&lt;p>Our Mission&lt;/p>
-&lt;p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p></description></item><item><title>Artisan Craft</title><link>/gallery/artisan-craft/</link><pubDate>Sat, 12 Jul 2025 05:23:24 +1000</pubDate><guid>/gallery/artisan-craft/</guid><description>&lt;p>
-
-
-
-
-
-
- 
- 
-&lt;figure>&lt;img src="/images/pottery.jpg" alt="Artisan Craft" class="mx-auto my-0 rounded-md" />
-&lt;/figure>
-&lt;/p>
-&lt;p>This handcrafted pottery reflects our community’s skill and dedication to preserving traditional craftsmanship.&lt;/p></description></item><item><title>Traditional Dance</title><link>/gallery/traditional-dance/</link><pubDate>Sat, 12 Jul 2025 05:23:24 +1000</pubDate><guid>/gallery/traditional-dance/</guid><description>&lt;p>
-
-
-
-
-
-
- 
- 
-&lt;figure>&lt;img src="/images/dance.jpg" alt="Traditional Dance" class="mx-auto my-0 rounded-md" />
-&lt;/figure>
-&lt;/p>
-&lt;p>This image captures the energy of our traditional dance, performed during the annual harvest festival. The dancers wear colorful attire, symbolizing unity and celebration.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome to the Project on African Community Project</title>
+    <link>/</link>
+    <description>Recent content in Welcome to the Project on African Community Project</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 12 Jul 2025 09:10:00 +1000</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>/about/</link>
+      <pubDate>Sat, 12 Jul 2025 09:10:00 +1000</pubDate>
+      <guid>/about/</guid>
+      <description>&lt;p&gt;About Us&lt;/p&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;&#xA;&lt;p&gt;Our Mission&lt;/p&gt;&#xA;&lt;p&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Artisan Craft</title>
+      <link>/gallery/artisan-craft/</link>
+      <pubDate>Sat, 12 Jul 2025 05:23:24 +1000</pubDate>
+      <guid>/gallery/artisan-craft/</guid>
+      <description>&lt;p&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;&lt;figure&gt;&lt;img src=&#34;/images/pottery.jpg&#34; alt=&#34;Artisan Craft&#34; class=&#34;mx-auto my-0 rounded-md&#34; /&gt;&#xD;&#xA;&lt;/figure&gt;&#xD;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;This handcrafted pottery reflects our community’s skill and dedication to preserving traditional craftsmanship.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Traditional Dance</title>
+      <link>/gallery/traditional-dance/</link>
+      <pubDate>Sat, 12 Jul 2025 05:23:24 +1000</pubDate>
+      <guid>/gallery/traditional-dance/</guid>
+      <description>&lt;p&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;&lt;figure&gt;&lt;img src=&#34;/images/dance.jpg&#34; alt=&#34;Traditional Dance&#34; class=&#34;mx-auto my-0 rounded-md&#34; /&gt;&#xD;&#xA;&lt;/figure&gt;&#xD;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;This image captures the energy of our traditional dance, performed during the annual harvest festival. The dancers wear colorful attire, symbolizing unity and celebration.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
